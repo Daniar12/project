@@ -79,3 +79,7 @@ As you might have noticed, at the first epoch the colors look a lot blurrier and
 	The results are looking very good and doesn’t have much of the problems. The problem that I’ve noticed are times when the back of the chair is gray, but the actual color is brown. Some of the objects take the color from other objects near them, and that looks quite unfitting. Overall, to me the model can be viewed as success.
 	Next steps:
 	The model for sure can be improved and take less time or train more effectively, but the results of the model I used is quite promising and satisfying. Especially, since this project isn’t the scientific research.
+
+Project video:
+https://youtu.be/vHAOHGI5-9A
+Project GitHub:
