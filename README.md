@@ -83,3 +83,4 @@ As you might have noticed, at the first epoch the colors look a lot blurrier and
 Project video:
 https://youtu.be/vHAOHGI5-9A
 Project GitHub:
+https://github.com/Daniar12/project
